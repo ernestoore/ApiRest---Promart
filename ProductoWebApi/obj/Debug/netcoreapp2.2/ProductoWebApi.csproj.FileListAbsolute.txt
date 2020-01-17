@@ -1,0 +1,14 @@
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\bin\Debug\netcoreapp2.2\ProductoWebApi.deps.json
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\bin\Debug\netcoreapp2.2\ProductoWebApi.runtimeconfig.json
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\bin\Debug\netcoreapp2.2\ProductoWebApi.runtimeconfig.dev.json
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\bin\Debug\netcoreapp2.2\ProductoWebApi.dll
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\obj\Debug\netcoreapp2.2\ProductoWebApi.csprojAssemblyReference.cache
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\obj\Debug\netcoreapp2.2\ProductoWebApi.csproj.CoreCompileInputs.cache
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\obj\Debug\netcoreapp2.2\ProductoWebApi.RazorAssemblyInfo.cache
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\obj\Debug\netcoreapp2.2\ProductoWebApi.RazorAssemblyInfo.cs
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\obj\Debug\netcoreapp2.2\ProductoWebApi.AssemblyInfoInputs.cache
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\obj\Debug\netcoreapp2.2\ProductoWebApi.AssemblyInfo.cs
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\obj\Debug\netcoreapp2.2\ProductoWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\bin\Debug\netcoreapp2.2\ProductoWebApi.pdb
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\obj\Debug\netcoreapp2.2\ProductoWebApi.dll
+C:\Users\ERNESTO\Desktop\PROMART\ProductoWebApi\ProductoWebApi\obj\Debug\netcoreapp2.2\ProductoWebApi.pdb
